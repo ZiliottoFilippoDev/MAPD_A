@@ -3,3 +3,6 @@ behavior in the frequency domain.
 The whole project was first testebenched via **GTKwave software** and then implemented with VHDL in a real **FPGA**.
 
 ![alt text](img/SharedScreenshot.jpg)
+
+**Response Signal FPGA**
+
