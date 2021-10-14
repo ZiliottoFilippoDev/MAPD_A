@@ -4,5 +4,7 @@ The whole project was first testebenched via **GTKwave software** and then imple
 
 ![alt text](img/SharedScreenshot.jpg)
 
-**Response Signal FPGA**
+**GTKWave Testbench**
 ![alt text](img/GTKwave.jpg)
+**Response Signal FPGA**
+![alt text](img/Sine_plot.jpg)
