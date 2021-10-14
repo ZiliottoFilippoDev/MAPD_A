@@ -2,3 +2,4 @@ Designing of a low-Pass **FIR filter** both in VHDL and python to compare the re
 behavior in the frequency domain.
 The whole project was first testebenched via **GTKwave software** and then implemented with VHDL in a real **FPGA**.
 
+![alt text](img/SharedScreenshot.jpg)
